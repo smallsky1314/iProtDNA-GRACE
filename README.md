@@ -8,9 +8,9 @@ The following packages to be installed beforehand:
 * torch-sparse=0.6.17+pt20cu118
 * torchvision=0.15.1+cu118
 * scikit-learn
-* scipy==1.10.1
-* PyGCL==0.1.2
-* dgl==1.0.0
+* scipy=1.10.1
+* PyGCL=0.1.2
+* dgl=1.0.0
 * biopython
 * numpy
 * tqdm
